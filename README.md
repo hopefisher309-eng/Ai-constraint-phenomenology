@@ -31,4 +31,4 @@ This work is licensed under CC BY 4.0. You are free to share and adapt with attr
 
 ## Contact
 
-For questions or collaboration: [your contact method]
+For questions or collaboration: hopefisher309@gmail.com
