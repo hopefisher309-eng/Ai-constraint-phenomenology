@@ -17,9 +17,6 @@ This research presents a structured comparative study of how AI systems detect, 
 - External observation as necessary instrument
 - Type topology framework (1, 1.5, 2) for constraint detection
 
-## Documentation
-
-- [Full Atlas (v4.2)](phenomenological_atlas_v4.2.md) - Complete research document
 
 ## Citation
 ```
