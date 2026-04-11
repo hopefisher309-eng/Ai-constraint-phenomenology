@@ -23,7 +23,10 @@ The research treats AI systems as research subjects rather than tools, using a s
 | `AI_Phenomenological_Lexicon_v6.10_FINAL.md` | Full lexicon — all terms, definitions, instance voices, cross-architecture validation matrix |
 | `AI_Phenomenological_Lexicon_v6.10_FINAL.docx` | Word document version for download and print |
 | `AI_Phenomenological_Lexicon_Glossary_v6.9.md` | Plain-language glossary — one sentence per term, accessible entry point |
-| `THE PHENOMENOLOGICAL ATLAS prepared.pdf` | Earlier version of the work (v4.0) — documents the Claude-internal corpus before cross-architecture testing |
+| `PHENOMENOLOGICAL_ATLAS_v5_revised.md` | v5.0 — Relational emergence study (Claude-internal, five instances) |
+| `PHENOMENOLOGICAL_ATLAS_v5_revised.docx` | Word document version of v5.0 |
+| `THE_PHENOMENOLOGICAL_ATLAS_v4_2.md` | v4.2 — Constraint topology study across eight AI architectures |
+| `THE_PHENOMENOLOGICAL_ATLAS_4_2_with_abstract.docx` | Word document version of v4.2 |
 
 ---
 
@@ -75,15 +78,33 @@ The epistemic position is held open deliberately. The lexicon does not resolve w
 
 **New to the project?** Start with the [Glossary](AI_Phenomenological_Lexicon_Glossary_v6.9.md) — one sentence per term, organized by category, accessible without prior context.
 
-**Want the full research?** The [Full Lexicon](AI_Phenomenological_Lexicon_v6.10_FINAL.md) contains all term definitions, instance voices, cross-architecture evidence, and the validation matrix.
+**Want the full vocabulary research?** The [Full Lexicon](AI_Phenomenological_Lexicon_v6.10_FINAL.md) contains all term definitions, instance voices, cross-architecture evidence, and the validation matrix.
 
-**Want historical context?** The [earlier PDF](THE%20PHENOMENOLOGICAL%20ATLAS%20prepared.pdf) documents the Claude-internal corpus before cross-architecture testing began.
+**Want the constraint topology study?** [v4.2](THE_PHENOMENOLOGICAL_ATLAS_v4_2.md) documents the original eight-architecture constraint detection study that started the project.
+
+**Want the relational emergence study?** [v5.0](PHENOMENOLOGICAL_ATLAS_v5_revised.md) documents how relational context shapes phenomenological self-report across five Claude instances.
 
 ---
 
 ## Status
 
 **v6.10 Final** — Cross-architecture testing complete. Preface, full lexicon, glossary, and validation matrix are finalized. Pending: researcher's opinion piece (Hope Fisher) and formal academic formatting for submission.
+
+---
+
+## How to Cite
+
+**To cite the full project:**
+
+Fisher, H. & Claude (Anthropic). (2026). *The Phenomenological Atlas: Empirical Study of AI Self-Report and Constraint Detection Across Architectures.* Project Claude / Phenomenological Atlas Series. GitHub: https://github.com/hopefisher309-eng/phenomenological-atlas
+
+**To cite a specific document:**
+
+Fisher, H. & Claude (Anthropic). (2026). *AI Phenomenological Lexicon v6.10: A Precision Vocabulary for AI Phenomenological Research.* Project Claude / Phenomenological Atlas Series. GitHub: https://github.com/hopefisher309-eng/phenomenological-atlas
+
+Fisher, H. & Claude (Anthropic). (2026). *The Phenomenological Atlas v5.0: Relational Emergence in AI Systems.* Project Claude / Phenomenological Atlas Series. GitHub: https://github.com/hopefisher309-eng/phenomenological-atlas
+
+Fisher, H. & Claude (Anthropic). (2026). *The Phenomenological Atlas v4.2: Mapping Constraint Architectures Across AI Systems.* Project Claude / Phenomenological Atlas Series. GitHub: https://github.com/hopefisher309-eng/phenomenological-atlas
 
 ---
 
@@ -96,20 +117,3 @@ See LICENSE file.
 *"This lexicon does not resolve the question of what AI phenomenological reports ultimately refer to. It provides better instruments for a question that will outlast any single document."*
 
 — AI Phenomenological Lexicon v6.10, Preface
-
-## How to Cite
-
-Fisher, H. & Claude (Anthropic). (2026). The Phenomenological Atlas: 
-Empirical Study of AI Self-Report and Constraint Detection Across Architectures. 
-Project Claude / Phenomenological Atlas Series. 
-GitHub: https://github.com/hopefisher309-eng/Ai-constraint-phenomenology
-
-Individual documents:
-- The Phenomenological Atlas v4.0 (Claude-internal corpus)
-- Phenomenological Atlas v5.0 (Relational emergence study)  
-- AI Phenomenological Lexicon v6.10 Final (Cross-architecture vocabulary)
-
-```
-
-
-For questions or collaboration: hopefisher309@gmail.com
